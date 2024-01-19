@@ -13,6 +13,6 @@ The task is to predict the probability of each test image being a dog (1 for dog
 # Model Development Approach
 To build the model that can classify the images belonging to cats or dogs, I will leverage the Convolutional Neural Network and try different transfer learning model architectures to determine which model performs the best on the dataset.
 
-Transfer learning model included:
+Transfer learning models included:
 1. ResNet 50
 2. Xception
