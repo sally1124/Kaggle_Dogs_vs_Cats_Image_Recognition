@@ -7,7 +7,7 @@ Kaggle challenge: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/ov
 
 # Dataset
 The train folder comprises 25,000 images featuring dogs and cats, with each image filename indicating its respective label. \
-The test folder contains 12,500 images identified by numeric IDs. \ 
+The test folder contains 12,500 images identified by numeric IDs.   \
 The task is to predict the probability of each test image being a dog (1 for dog, 0 for cat).
 
 # Model Development Approach
